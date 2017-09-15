@@ -15,12 +15,11 @@ and prove you're the best!
 
 The installation of this project is a straight forward one. Simply install Unity3D
 
-```sh
-[Unity](https://unity3d.com)
+![Unity](https://unity3d.com)
 
 Open Unity3D and then click on open, and choose the folder where the repository was downloaded
 
-![] (readme/UnityScreenshot.png)
+![](readme/UnityScreenshot.png)
 
 From there you are able to build a playable version or make any changes you might consider as proper.
 ```

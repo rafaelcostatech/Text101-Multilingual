@@ -33,14 +33,14 @@ scripts to hold things together in a maintainable way. Feels free to suggest, cr
 ## Release History
 
 * 2.0
-	* This is the first release of the game. It contains only the first scene of the game, the Prison itself. In next releases, for every new scene
-	  a new version will be in place. So in version 3, we will have 2 scenes on the game while the scene 3 is being created. Every new part designed
-	  will count as a sub-version. To explain in a practical way:
-			* Version 2.0 Have only one complete scene with all it's parts complete.
-			* Version 2.1 Will have 2 scenes, and one part of scene 2 complete. 
-			* Version 2.X Will have 2 scenes, and X parts complete
-			* Version 3.0 will have all scene 2 complete
-            * Any minor release will be an enhance on the game motor, like creating random questions, etc. In this case it wold be, for example, version 2.1.X			
+  * This is the first release of the game. It contains only the first scene of the game, the Prison itself. In next releases, for every new scene
+    a new version will be in place. So in version 3, we will have 2 scenes on the game while the scene 3 is being created. Every new part designed
+	will count as a sub-version. To explain in a practical way:
+    * Version 2.0 Have only one complete scene with all it's parts complete.
+	* Version 2.1 Will have 2 scenes, and one part of scene 2 complete. 
+	* Version 2.X Will have 2 scenes, and X parts complete
+	* Version 3.0 will have all scene 2 complete
+    * Any minor release will be an enhance on the game motor, like creating random questions, etc. In this case it wold be, for example, version 2.1.X			
 	
 
 ## Meta

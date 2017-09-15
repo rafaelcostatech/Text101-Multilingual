@@ -45,9 +45,10 @@ scripts to hold things together in a maintainable way. Feels free to suggest, cr
 
 ## Meta
 
-Rafael Costa – [@rafaelcostatech](https://twitter.com/@rafaelcostatech)
-rafael@rafaelcostatech.com
-http://rafaelcostatech.com/
+Rafael Costa 
+* [@rafaelcostatech](https://twitter.com/@rafaelcostatech)
+* rafael@rafaelcostatech.com
+* http://rafaelcostatech.com/
 
 
 

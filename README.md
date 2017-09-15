@@ -8,7 +8,7 @@ language, the game will be able to be translated and be playable all aroud the w
 
 The player is traped in a prison and needs to escape. The story is still in development, and will increase gradually. Try to scape this prison yourself
 and prove you're the best! You're certainly going to have fun.
-/play guarantee
+
 
 ![](readme/Screenshot.png)
 

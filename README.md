@@ -7,7 +7,8 @@ Never forget the classics! In this version of Text101 players are able to play i
 language, the game will be able to be translated and be playable all aroud the world. 
 
 The player is traped in a prison and needs to escape. The story is still in development, and will increase gradually. Try to scape this prison yourself
-and prove you're the best! You're certainly going to have fun. /play guarantee
+and prove you're the best! You're certainly going to have fun.
+/play guarantee
 
 ![](readme/Screenshot.png)
 
